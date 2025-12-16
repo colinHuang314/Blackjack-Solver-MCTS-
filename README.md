@@ -1,5 +1,8 @@
 # Blackjack-Solver-MCTS-
 
+<!---
+This is a multi-line comment.
+It is also hidden in the rendered view.
 
 *insert line numbers
 some of it is very messy sorry about that, future projects will be better
@@ -26,3 +29,4 @@ soft 19 vs 6: tc -1 (133 sec)
 
 
 feel free to tweak other settings although their effects may be more conplicated than you think
+--->

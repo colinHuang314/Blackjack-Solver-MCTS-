@@ -78,3 +78,5 @@ This solver doesn't use classic MCTS:
 
 ## Notes
 Some configuration parameters have subtle interactions—tweaking settings may have non-obvious effects on convergence speed and accuracy.
+
+Yes, the code is messy in certain parts. I'll use better Python conventions and write cleaner code in the future.
